@@ -78,7 +78,7 @@ git clone "url you just copied"
 ```
 where "url you just copied" (without the quote marks) is the url to this repository (your fork of this project). See the previous steps to obtain the url.
 
-<img align="right" width="300" src="assets/copy-to-clipboard.png" alt="copy URL to clipboard" />
+<img align="right" width="300" src="assets/copy-to-clipboard.png" alt="https://github.com/this-is-you/first-contributions.git" />
 
 For example:
 ```
